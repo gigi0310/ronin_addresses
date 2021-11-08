@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "axios": "^0.24.0",
+    "csv-parse": "^4.16.3",
+    "csv-writer": "^1.6.0"
+  },
+  "name": "ronin_addresses",
+  "description": "",
+  "version": "1.0.0",
+  "main": "file.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gigi0310/ronin_addresses.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gigi0310/ronin_addresses/issues"
+  },
+  "homepage": "https://github.com/gigi0310/ronin_addresses#readme"
+}
