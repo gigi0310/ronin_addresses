@@ -10,6 +10,7 @@
 
 - Node
 - Javascript
+- Axios
 - google sheet
 
 ### How to run the project
