@@ -1,7 +1,5 @@
 # ronin_addresses
 
-Using the API call https://game-api.axie.technology/mmr/RONIN_ADDRESS loop over each of the RONIN_ADDRESS rows in the supplied google sheet.
-
 ## Project Task
 
 - Using the API call https://game-api.axie.technology/mmr/RONIN_ADDRESS loop over each of the RONIN_ADDRESS rows in the supplied google sheet.
